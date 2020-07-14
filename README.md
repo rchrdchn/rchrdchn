@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola 👋
+
+- 👨‍💻  I’m currently a UI Magician/Engineer at SAP SuccessFactors ✨
+- 🌱 I’m currently reading or re-reading: The Intelligent Investor, Refactoring, A Guide to the Good Life
+- 💬 Ask me about: running, traveling, habits, horology, books, programming, CS:GO
+- ⚡️ Fun fact: I'm fluent in Spanish, English, and Chinese
+- 📫  How to reach me: <chan@hey.com>
 
 <!--
 **rchrdchn/rchrdchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
