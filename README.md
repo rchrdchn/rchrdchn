@@ -1,8 +1,8 @@
 ### Hola 👋
 
 - 👨‍💻  I’m currently a UI Engineer at SAP ✨
-- 🌱 I’m currently reading or re-reading: The Intelligent Investor, Refactoring, Demand-Side Sales, Your Music and People, The Almanack of Naval Ravikant
-- 💬 Ask me about: sports (running, soccer, formula 1, tennis), traveling, habits, horology, books, programming, CS:GO
+- 🌱  Currently reading or re-reading: The Intelligent Investor, Refactoring, Demand-Side Sales, The Box, Why Nations Fail, The Great Mental Models
+- 💬  Let's chat: sports (running, soccer, formula 1, tennis), traveling, habits, horology, books, programming, CS:GO
 - ⚡️ Fun fact: I'm fluent in Spanish, English, and Chinese
 - 📫  How to reach me: <chan@hey.com>
 
