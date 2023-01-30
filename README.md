@@ -1,7 +1,7 @@
 ### Hola 👋
 
 - 👨‍💻  I’m currently a UI Engineer at SAP ✨
-- 🌱  Currently reading or re-reading: The man who solved the market, Build, How to Win at the Sport of Business
+- 🌱  Currently reading or re-reading: The Three-Body Problem, Build, The Daily Stoic, Gallardo Monumental, Expecting Better
 - 💬  Let's chat: sports (running, soccer, formula 1, tennis), traveling, habits and systems, horology, books, programming, CS:GO
 - ⚡️ Fun fact: I'm fluent in Spanish, English, and Chinese
 - 📫  How to reach me: <chan@hey.com>
