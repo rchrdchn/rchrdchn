@@ -1,7 +1,7 @@
 ### Hola 👋
 
 - 👨‍💻  I’m currently a UI Engineer at SAP ✨
-- 🌱  Currently reading or re-reading: Elon Musk by Walter Isaacson, Risk Game: Self Portrait of an Entrepreneur, Build, The Daily Stoic
+- 🌱  Currently reading or re-reading: Elon Musk by Walter Isaacson, Risk Game: Self Portrait of an Entrepreneur, The Daily Stoic
 - 💬  Let's chat: sports (running, soccer, formula 1, tennis), traveling, habits and systems, horology, books, programming, CS2
 - ⚡️ Fun fact: I'm fluent in Spanish, English, and Chinese
 - 📫  How to reach me: <chan@hey.com>
