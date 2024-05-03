@@ -6,6 +6,13 @@
 - ⚡️ Fun fact: I'm fluent in Spanish, English, and Chinese
 - 📫  How to reach me: <chan@hey.com>
 
+### Stack 🥞
+- React
+- Redux
+- Web Components
+- HTML, CSS, JavaScript
+- Ruby on Rails
+
 <!--
 **rchrdchn/rchrdchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
