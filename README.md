@@ -9,9 +9,11 @@
 ### Stack 🥞
 - React
 - Redux
+- Next.js
 - Web Components
 - HTML, CSS, JavaScript
 - Ruby on Rails
+- Tailwind
 
 <!--
 **rchrdchn/rchrdchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
