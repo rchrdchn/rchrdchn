@@ -4,7 +4,7 @@
 - 🌱  Currently reading or re-reading: An Introduction to General Systems Thinking, How to Make a Few Billions, The Daily Stoic, The Technological Republic, 100-Baggers
 - 💬  Interests: sports (running, soccer, formula 1, tennis), traveling, languages, systems, horology, reading, programming, CS2.
 - ⚡️ I'm fluent in Spanish, English, and Chinese.
-- 📫  chan at hey com
+- 📫  chan at hey dot com
 
 ### Stack 🥞
 - React
