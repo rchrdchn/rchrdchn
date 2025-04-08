@@ -1,19 +1,20 @@
 ### Hola 👋
 
-- 👨‍💻  I’m currently a UI Engineer at SAP ✨
-- 🌱  Currently reading or re-reading: The Simple Path to Wealth, Surviving to Drive, The Algebra of Wealth, The Daily Stoic.
-- 💬  Let's chat: sports (running, soccer, formula 1, tennis), traveling, habits and systems, horology, books, programming, CS2
-- ⚡️ Fun fact: I'm fluent in Spanish, English, and Chinese
-- 📫  How to reach me: <chan@hey.com>
+- 👨‍💻  Looking to join a small-to-midsize team to deliver mission-driven, high-impact work.
+- 🌱  Currently reading or re-reading: An Introduction to General Systems Thinking, How to Make a Few Billions, The Daily Stoic, The Technological Republic, 100-Baggers
+- 💬  Interests: sports (running, soccer, formula 1, tennis), traveling, languages, systems, horology, reading, programming, CS2.
+- ⚡️ I'm fluent in Spanish, English, and Chinese.
+- 📫  chan at hey com
 
 ### Stack 🥞
 - React
 - Redux
+- TypeScript
+- Tailwind
+- HTML, CSS, JavaScript
 - Next.js
 - Web Components
-- HTML, CSS, JavaScript
 - Ruby on Rails
-- Tailwind
 
 <!--
 **rchrdchn/rchrdchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
