@@ -7,7 +7,7 @@
 - 📫  chan at hey dot com
 
 ### Stack 🥞
-- React, Redux, TypeScript, Tailwind, HTML, CSS, JavaScript, React Native, Next.js, Web Components, Ruby on Rails, Cypress, Figma
+- React, Redux, TypeScript, Tailwind, HTML, CSS, JavaScript, React Native, Next.js, Web Components, Ruby/Rails, Cypress, Figma
 
 <!--
 **rchrdchn/rchrdchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
