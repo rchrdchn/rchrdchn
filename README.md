@@ -5,7 +5,7 @@
 - 💬  Interests: sports (running, soccer, formula 1, tennis), traveling, languages, systems, horology, reading, programming, CS2.
 - ⚡️ I'm fluent in Spanish, English, and Chinese.
 - 📫  chan at hey dot com
-- 👨‍💻 side-projects: [tinylabs](https://www.tinylabs.cc/)
+- 👨‍💻 side-projects: [tinylabs](https://www.tinylabs.cc/) / [tiny tasks](https://chromewebstore.google.com/detail/tiny-tasks-a-modern-to-do/lffhhelhehdcodfahohelkbfmaneiglg) / [no whiteboard jobs](https://www.nowhiteboardjobs.xyz/) / [tiny tags](https://chromewebstore.google.com/detail/tiny-tags-instant-query-p/adjhigahlbnjoiaoaoignnhfablfcoba?utm_source=tinylabs)
 
 ### Stack 🥞
 - React, Redux, TypeScript, Tailwind, HTML, CSS, JavaScript, React Native, Next.js, Ruby/Rails, Cypress, Figma
