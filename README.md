@@ -1,10 +1,10 @@
 ### Hola 👋
 
 - 👨‍💻  Looking to join a small-to-midsize team to deliver mission-driven, high-impact work.
-- 🌱  Currently reading or re-reading: An Introduction to General Systems Thinking, How to Make a Few Billions, The Daily Stoic, The Technological Republic, 100-Baggers
-- 💬  Interests: sports (running, soccer, formula 1, tennis), traveling, languages, systems, horology, reading, programming, CS2.
+- 🌱  [Currently reading](https://www.middlekid.io/readings) or re-reading: An Introduction to General Systems Thinking, How to Make a Few Billions, The Daily Stoic, The Technological Republic, 100-Baggers
+- 💬  [Interests](https://www.middlekid.io/): sports (running, soccer, formula 1, tennis), traveling, languages, systems, horology, reading, programming, CS2.
 - ⚡️ I'm fluent in Spanish, English, and Chinese.
-- 📫  chan at hey dot com
+- 📫  [chan at hey dot com](chan@hey.com)
 - 👨‍💻 side-projects: [tinylabs](https://www.tinylabs.cc/) / [tiny tasks](https://chromewebstore.google.com/detail/tiny-tasks-a-modern-to-do/lffhhelhehdcodfahohelkbfmaneiglg) / [no whiteboard jobs](https://www.nowhiteboardjobs.xyz/) / [tiny tags](https://chromewebstore.google.com/detail/tiny-tags-instant-query-p/adjhigahlbnjoiaoaoignnhfablfcoba?utm_source=tinylabs)
 
 ### Stack 🥞
