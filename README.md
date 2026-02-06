@@ -4,7 +4,7 @@
 - 🌱 [Currently reading](https://www.middlekid.io/readings) or re-reading: Unit X, Meditations, The Manual, The Daily Stoic, 100-Baggers
 - 💬 [Interests](https://www.middlekid.io/): sports (running, soccer, formula 1, tennis), traveling, languages, systems, horology, reading, programming, CS2.
 - ⚡️ Fluent in Spanish, English, and Chinese.
-- 👨‍💻 Side-projects: [tinylabs](https://www.tinylabs.cc/) / [sparkle](https://www.getsparkle.xyz/) / [tiny tasks](https://chromewebstore.google.com/detail/tiny-tasks-a-modern-to-do/lffhhelhehdcodfahohelkbfmaneiglg?utm_source=github) (700+ DAU) / [no whiteboard jobs](https://www.nowhiteboardjobs.xyz?utm_source=github) (1000+ MAU) / [tiny tags](https://chromewebstore.google.com/detail/tiny-tags-instant-query-p/adjhigahlbnjoiaoaoignnhfablfcoba?utm_source=github) (150+ DAU)
+- 👨‍💻 Side-projects: [tinylabs](https://www.tinylabs.cc/) / [sparkle](https://www.getsparkle.xyz/) / [tiny tasks](https://chromewebstore.google.com/detail/tiny-tasks-a-modern-to-do/lffhhelhehdcodfahohelkbfmaneiglg?utm_source=github) (850+ DAU) / [no whiteboard jobs](https://www.nowhiteboardjobs.xyz?utm_source=github) (1000+ MAU) / [tiny tags](https://chromewebstore.google.com/detail/tiny-tags-instant-query-p/adjhigahlbnjoiaoaoignnhfablfcoba?utm_source=github) (200+ DAU)
 - 📫 chan at hey dot com
 
 ### Stack 🥞
